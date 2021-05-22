@@ -18,5 +18,9 @@ public class Sample {
 	public  void sample3() {
 		System.out.println("what is your plans today");
 	}
+@Test
+	public  void sample4() {
+		System.out.println("That's Good");
+	}
 
 }
